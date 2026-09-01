@@ -110,3 +110,4 @@ Bu Gizlilik Politikası veya Mumere uygulamasıyla ilgili gizlilik konularında 
 ---
 
 © 2026 Mumere
+<!-- Pages redeploy: 2026-09-01 -->
